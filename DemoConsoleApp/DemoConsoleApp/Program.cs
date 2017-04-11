@@ -6,8 +6,8 @@ namespace DemoConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Another change");
+            Console.WriteLine("Hello World! made changes on server");
+            Console.WriteLine("Another change");            
         }
     }
 }
